@@ -1,6 +1,6 @@
-**Api REST e RESTFul**
+# **Api REST e RESTFul**
 
-API REST é um conjunto de princípios arquiteturais que define como recursos web podem ser criados e interconectados. Ela utiliza uma abordagem stateless, o que significa que cada solicitação do cliente contém toda a informação necessária para entender e processar a requisição. As APIs RESTful são implementações específicas que seguem os princípios REST.
+#API REST é um conjunto de princípios arquiteturais que define como recursos web podem ser criados e interconectados. Ela utiliza uma abordagem stateless, o que significa que cada solicitação do cliente contém toda a informação necessária para entender e processar a requisição. As APIs RESTful são implementações específicas que seguem os princípios REST.
 
 **Diferenças entre REST e RESTFul**
 
